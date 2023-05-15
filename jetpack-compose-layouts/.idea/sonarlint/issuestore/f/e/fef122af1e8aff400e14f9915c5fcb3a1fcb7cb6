@@ -1,0 +1,12 @@
+
+Dkotlin:S1481±"+Remove this unused "myText" local variable.(ãŒÕ
+2kotlin:S1128F"Remove this unused import.(şÃ¨‰
+2kotlin:S1128G"Remove this unused import.(‰Æªğ
+7kotlin:S1128H"Remove this unused import.(íÓ¤¶üÿÿÿÿ
+2kotlin:S1128I"Remove this unused import.(íí›
+1kotlin:S1128J"Remove this unused import.(î‹³q
+ckotlin:S1192æ"JDefine a constant instead of duplicating this literal "Example 1" 5 times.(§±Ññ
+ckotlin:S1192ô"JDefine a constant instead of duplicating this literal "Example 2" 3 times.(›Íå
+ckotlin:S1192‚"JDefine a constant instead of duplicating this literal "Example 3" 3 times.(Ğ¢»š
+ckotlin:S1192"JDefine a constant instead of duplicating this literal "Example 4" 3 times.(Õ¥İº
+lkotlin:S1192»"SDefine a constant instead of duplicating this literal "Esto es un ejemplo" 6 times.(åüÈÀ
